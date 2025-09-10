@@ -1,0 +1,51 @@
+*{
+    background-color:lightskyblue;
+    color: black;
+}
+.h1{
+    color: black;
+}
+i{
+    color:blueviolet;
+}
+a{
+    color: blue;
+}
+h2{
+    background-color:yellowgreen;
+    color: brown;
+}
+p{
+    color: darkblue;
+}
+h3, h4{
+
+    color:red;
+}
+li{
+    color:sienna;
+}
+table{
+    background-color: brown;
+}
+td{
+    color:green;
+}
+h3{
+    color: red;
+}
+b{
+    color:lightcoral;
+}
+label{
+    color:chocolate ;
+}
+input{
+    background-color:white;
+}
+textarea{
+    background-color: white;
+}
+select{
+    background-color: white;
+}
